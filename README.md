@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm hyeminililo</h1>
+<h1 align="left">Hi 👋, I'm hyeminililo</h1>
 - 🌱 I’m currently learning **Spring, Kotlin, Android**
 
 <h3 align="left">Connect with me:</h3>
