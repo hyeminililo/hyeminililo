@@ -5,9 +5,10 @@
 
 ## 🌱 I’m currently learning ,,, 🌱
 <div>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=social&logo=kotlin&logoColor=">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=social&logo=spring boot&logoColor=">&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=social&logo=android studio&logoColor=green">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=flutter&logoColor="/>
+
 </div>
 <hr>
 
@@ -20,7 +21,7 @@
 
 #### 📎 frontend-Mobile
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=social&logo=kotlin&logoColor=">&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=social&logo=kotlin&logoColor=">&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Android-3DDC84?style=social&logo=android&logoColor=green">&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=flutter&logoColor="/>
 
