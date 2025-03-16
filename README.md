@@ -4,6 +4,20 @@
 
 ---
 
+
+
+## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeminililo&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeminililo&theme=radical&hide_border=true" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeminililo&theme=radical&hide_border=true" width="100%">
+</div>
+
+---
+
 ## 🌱 Currently Learning
 <div align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -28,26 +42,12 @@
 ---
 
 ## 🔥 Featured Projects
-### 🚀 주요 프로젝트
-| 프로젝트명 | 링크 |
+| Project Name | Link |
 |-----------|------|
-| 📱 **Project 1** | [🔗 GitHub](https://github.com/SSS-11team/gomin_jungdok-mobile) |
-| 💻 **Project 2** | [🔗 GitHub](https://github.com/keodam/keodam-frontend) |
-| 🌐 **Project 3** | [🔗 GitHub](https://github.com/hyeminililo/Flick_FE) |
+| 📱 **고민중독* | [🔗 GitHub](https://github.com/SSS-11team/gomin_jungdok-mobile) |
+| 💻 **커담** | [🔗 GitHub](https://github.com/keodam/keodam-frontend) |
+| 🌐 **플릭** | [🔗 GitHub](https://github.com/hyeminililo/Flick_FE) |
 
-
-
----
-
-## 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeminililo&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeminililo&theme=radical&hide_border=true" width="48%">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeminililo&theme=radical&hide_border=true" width="100%">
-</div>
 
 ---
 
