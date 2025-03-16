@@ -51,25 +51,25 @@
 
 ## 🔥 Featured Projects & 📫 Contact
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center"><b>🔥 Featured Projects</b></td>
-    <td align="center"><b>📫 Contact</b></td>
+    <td align="center" width="50%"><b>🔥 Featured Projects</b></td>
+    <td align="center" width="50%"><b>📫 Contact</b></td>
   </tr>
   <tr>
     <td valign="top">
       <ul>
-        <li>📱 <b>고민중독</b> - <a href="https://github.com/SSS-11team/gomin_jungdok-mobile">🔗 GitHub</a></li>
-        <li>☕️ <b>Keodam</b> - <a href="https://github.com/keodam/keodam-frontend">🔗 GitHub</a></li>
-        <li>♻️ <b>Flick</b> - <a href="https://github.com/hyeminililo/Flick_FE">🔗 GitHub</a></li>
+        <li>📱 <b>고민중독</b> - <a href="https://github.com/SSS-11team/gomin_jungdok-mobile">🔗 Gomin-JungDok</a></li>
+        <li>☕️ <b>Keodam</b> - <a href="https://github.com/keodam/keodam-frontend">🔗 Keodam</a></li>
+        <li>♻️ <b>Flick</b> - <a href="https://github.com/hyeminililo/Flick_FE">🔗 Flick</a></li>
       </ul>
     </td>
     <td valign="top" align="center">
       <a href="https://github.com/hyeminililo">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a><br><br>
       <a href="mailto:hyemintech@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
   </tr>
