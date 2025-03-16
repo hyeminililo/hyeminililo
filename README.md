@@ -49,20 +49,31 @@
 
 ---
 
-## 🔥 Featured Projects
-| Project Name | Link |
-|-----------|------|
-| 📱 **고민중독** | [🔗 GitHub](https://github.com/SSS-11team/gomin_jungdok-mobile) |
-| ☕️ **커담** | [🔗 GitHub](https://github.com/keodam/keodam-frontend) |
-| ♻️ **플릭** | [🔗 GitHub](https://github.com/hyeminililo/Flick_FE) |
+## 🔥 Featured Projects & 📫 Contact
 
+<table>
+  <tr>
+    <td align="center"><b>🔥 Featured Projects</b></td>
+    <td align="center"><b>📫 Contact</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>📱 <b>고민중독</b> - <a href="https://github.com/SSS-11team/gomin_jungdok-mobile">🔗 GitHub</a></li>
+        <li>☕️ <b>Keodam</b> - <a href="https://github.com/keodam/keodam-frontend">🔗 GitHub</a></li>
+        <li>♻️ <b>Flick</b> - <a href="https://github.com/hyeminililo/Flick_FE">🔗 GitHub</a></li>
+      </ul>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://github.com/hyeminililo">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+      </a><br><br>
+      <a href="mailto:hyemintech@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
----
-
-## 📫 Contact
-<div align="center">
-  <a href="https://github.com/hyeminililo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:hyemintech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</div>
 
 ---
