@@ -31,9 +31,10 @@
 ### 🚀 주요 프로젝트
 | 프로젝트명 | 링크 |
 |-----------|------|
-| 📱 **Project 1** | [🔗 GitHub]([https://github.com/hyeminililo/project1](https://github.com/SSS-11team/gomin_jungdok-mobile)) |
-| 💻 **Project 2** | [🔗 GitHub]([https://github.com/hyeminililo/project2](https://github.com/keodam/keodam-frontend)) |
-| 🌐 **Project 3** | [🔗 GitHub]([https://github.com/hyeminililo/project3](https://github.com/hyeminililo/Flick_FE)) |
+| 📱 **Project 1** | [🔗 GitHub](https://github.com/SSS-11team/gomin_jungdok-mobile) |
+| 💻 **Project 2** | [🔗 GitHub](https://github.com/keodam/keodam-frontend) |
+| 🌐 **Project 3** | [🔗 GitHub](https://github.com/hyeminililo/Flick_FE) |
+
 
 
 ---
@@ -53,7 +54,7 @@
 ## 📫 Contact
 <div align="center">
   <a href="https://github.com/hyeminililo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hyemintech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
