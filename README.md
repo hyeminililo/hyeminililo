@@ -13,7 +13,7 @@
 
 ---
 
-## 💬 Language & Tools
+## 💬 Learning Language & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
@@ -29,11 +29,11 @@
 
 ## 🔥 Featured Projects
 ### 🚀 주요 프로젝트
-| 프로젝트명 | 설명 | 링크 |
-|-----------|------|------|
-| 📱 **Project 1** | 프로젝트 1 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project1](https://github.com/SSS-11team/gomin_jungdok-mobile)) |
-| 💻 **Project 2** | 프로젝트 2 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project2](https://github.com/keodam/keodam-frontend)) |
-| 🌐 **Project 3** | 프로젝트 3 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project3](https://github.com/hyeminililo/Flick_FE)) |
+| 프로젝트명 | 링크 |
+|-----------|------|
+| 📱 **Project 1** | [🔗 GitHub]([https://github.com/hyeminililo/project1](https://github.com/SSS-11team/gomin_jungdok-mobile)) |
+| 💻 **Project 2** | [🔗 GitHub]([https://github.com/hyeminililo/project2](https://github.com/keodam/keodam-frontend)) |
+| 🌐 **Project 3** | [🔗 GitHub]([https://github.com/hyeminililo/project3](https://github.com/hyeminililo/Flick_FE)) |
 
 
 ---
