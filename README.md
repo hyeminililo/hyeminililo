@@ -27,6 +27,17 @@
 
 ---
 
+## 🔥 Featured Projects
+### 🚀 주요 프로젝트
+| 프로젝트명 | 설명 | 링크 |
+|-----------|------|------|
+| 📱 **Project 1** | 프로젝트 1 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project1](https://github.com/SSS-11team/gomin_jungdok-mobile)) |
+| 💻 **Project 2** | 프로젝트 2 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project2](https://github.com/keodam/keodam-frontend)) |
+| 🌐 **Project 3** | 프로젝트 3 설명을 여기에 작성하세요. | [🔗 GitHub]([https://github.com/hyeminililo/project3](https://github.com/hyeminililo/Flick_FE)) |
+
+
+---
+
 ## 📊 GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyeminililo&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%">
