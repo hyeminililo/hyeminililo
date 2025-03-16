@@ -12,8 +12,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyeminililo&theme=dracula&hide_border=true" width="48%">
 </div>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeminililo&theme=tokyonight&hide_border=true" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeminililo&theme=custom&background=282a36&border=6272a4&title=ff79c6&text=f8f8f2&icon=bd93f9&hide_border=true" width="100%">
 </div>
+
 
 
 
