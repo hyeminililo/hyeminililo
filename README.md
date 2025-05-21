@@ -53,7 +53,6 @@
 ## 🔥 Featured Projects
 <ul>
   <li>📱 <b>고민중독</b> - <a href="https://github.com/SSS-11team/gomin_jungdok-mobile">🔗 Gomin-JungDok</a></li>
-  <li>☕️ <b>Keodam</b> - <a href="https://github.com/keodam/keodam-frontend">🔗 Keodam</a></li>
   <li>♻️ <b>Flick</b> - <a href="https://github.com/hyeminililo/Flick_FE">🔗 Flick</a></li>
 </ul>
 
